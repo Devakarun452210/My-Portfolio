@@ -9,14 +9,7 @@ const About = () => {
       <div className="about">
         <div className="details">
           <p>
-            "Dynamic and Enthusiastic Web Developer. Curious in the MERN stack
-            (MongoDB, Express.js, React.js, and Node.js). Strong problem-solving
-            skills and a collaborative mindset, demonstrated through successful
-            project deployments for businesses. Adaptable and quick to learn,
-            staying up-to-date with emerging technologies and industry best
-            practices. Committed to delivering high-quality solutions that
-            exceed client expectations. Seeking opportunities to contribute to a
-            progressive organization and drive business growth."
+            "Highly motivated and detail-oriented full-stack developer specializing in the MERN stack, Next.js, Git, and TypeScript. Passionate about creating efficient and user-friendly web applications. Dedicated to continuous learning and keeping up-to-date with emerging technologies. A collaborative team player with strong problem-solving skills and a drive for delivering high-quality code."
           </p>
         </div>
         <div className="profile">
