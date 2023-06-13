@@ -13,7 +13,7 @@ import node from "../../img/skills/nodejs.svg";
 const Skills = () => {
   return (
     <div className="skills">
-      <div className="skill">
+       <div className="skill">
         <div className="logo">
           <img src={html} alt="" />
         </div>
@@ -24,7 +24,13 @@ const Skills = () => {
           <img src={js} alt="" className="js" />
         </div>
         <div className="logo">
+          <img src={typescript} alt="" className="js" />
+        </div>
+        <div className="logo">
           <img src={react} alt="" className="react" />
+        </div>
+        <div className="logo">
+          <img src={next} alt="" className="tail" />
         </div>
         <div className="logo">
           <img src={sass} alt="" className="tail" />
@@ -40,6 +46,9 @@ const Skills = () => {
         </div>
         <div className="logo">
           <img src={node} alt="" className="js" />
+        </div>
+        <div className="logo">
+          <img src={git} alt="" className="js" />
         </div>
       </div>
     </div>
