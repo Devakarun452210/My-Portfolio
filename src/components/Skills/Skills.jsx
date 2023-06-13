@@ -9,6 +9,9 @@ import tailwind from "../../img/skills/tailwind.webp";
 import mongo from "../../img/skills/mongodb-wordmark.svg";
 import express from "../../img/skills/expressjs-dark.svg";
 import node from "../../img/skills/nodejs.svg";
+import next from "../../img/skills/nextjs.png";
+import git from "../../img/skills/git.png";
+import typescript from "../../img/skills/typescript.png";
 
 const Skills = () => {
   return (
