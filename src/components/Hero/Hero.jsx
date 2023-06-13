@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="profileDetails">
         <div className="top">
           <span className="name">hello I'm Devakarun</span>
-          <h1 className="designation">Web Developer | Fresher</h1>
+          <h1 className="designation">Full-Stack Developer | MERN Stack | Next.js | Git | TypeScript</h1>
         </div>
         <div className="middle">
           <i class="fa-solid fa-arrow-right hireArrow"></i>
