@@ -50,6 +50,9 @@ const Skills = () => {
         <div className="logo">
           <img src={node} alt="" className="js" />
         </div>
+         <div className="logo">
+          <img src={redux} alt="" className="js" />
+        </div>
         <div className="logo">
           <img src={git} alt="" className="js" />
         </div>
