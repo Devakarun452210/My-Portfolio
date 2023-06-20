@@ -12,6 +12,7 @@ import node from "../../img/skills/nodejs.svg";
 import next from "../../img/skills/nextjs.png";
 import git from "../../img/skills/git.png";
 import typescript from "../../img/skills/typescript.png";
+import redux from "../../img/skills/redux.png";
 
 const Skills = () => {
   return (
