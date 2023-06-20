@@ -13,6 +13,7 @@ import next from "../../img/skills/nextjs.png";
 import git from "../../img/skills/git.png";
 import typescript from "../../img/skills/typescript.png";
 import redux from "../../img/skills/redux.png";
+import figma from "../../img/skills/figma.png";
 
 const Skills = () => {
   return (
@@ -56,6 +57,9 @@ const Skills = () => {
         </div>
         <div className="logo">
           <img src={git} alt="" className="js" />
+        </div>
+          <div className="logo">
+          <img src={figma} alt="" className="js" />
         </div>
       </div>
     </div>
