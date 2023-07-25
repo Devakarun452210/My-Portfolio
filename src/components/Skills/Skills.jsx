@@ -9,16 +9,12 @@ import tailwind from "../../img/skills/tailwind.webp";
 import mongo from "../../img/skills/mongodb-wordmark.svg";
 import express from "../../img/skills/expressjs-dark.svg";
 import node from "../../img/skills/nodejs.svg";
-import next from "../../img/skills/nextjs.png";
-import git from "../../img/skills/git.png";
-import typescript from "../../img/skills/typescript.png";
-import redux from "../../img/skills/redux.png";
 import figma from "../../img/skills/figma.png";
 
 const Skills = () => {
   return (
     <div className="skills">
-       <div className="skill">
+      <div className="skill">
         <div className="logo">
           <img src={html} alt="" />
         </div>
@@ -29,13 +25,7 @@ const Skills = () => {
           <img src={js} alt="" className="js" />
         </div>
         <div className="logo">
-          <img src={typescript} alt="" className="js" />
-        </div>
-        <div className="logo">
           <img src={react} alt="" className="react" />
-        </div>
-        <div className="logo">
-          <img src={next} alt="" className="tail" />
         </div>
         <div className="logo">
           <img src={sass} alt="" className="tail" />
@@ -52,13 +42,7 @@ const Skills = () => {
         <div className="logo">
           <img src={node} alt="" className="js" />
         </div>
-         <div className="logo">
-          <img src={redux} alt="" className="js" />
-        </div>
         <div className="logo">
-          <img src={git} alt="" className="js" />
-        </div>
-          <div className="logo">
           <img src={figma} alt="" className="js" />
         </div>
       </div>
