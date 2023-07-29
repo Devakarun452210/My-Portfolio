@@ -10,6 +10,15 @@ import siva from "./img/projects/Siva.gif";
 import youtube from "./img/projects/YouTube.gif";
 import zomato from "./img/projects/Zomato Clone.gif";
 import sivaecommerce from "./img/projects/siva.png";
+import devbank from "./img/projects/Dev Bank.png";
+import Django from "./img/projects/Django.png";
+import PinkFlora from "./img/projects/PinkFlora.png";
+import reactRedux from "./img/projects/reactRedux.png";
+import SpaceXClone from "./img/projects/SpaceX Clone.png";
+import TeslaClone from "./img/projects/Tesla Clone.png";
+import YoutubeClone from "./img/projects/Youtube Clone.png";
+import rolex from "./img/projects/rolex.png";
+
 export const projects = [
   {
     id: 1,
@@ -73,28 +82,29 @@ export const projects = [
   },
   {
     id: 6,
-    img: zomato,
-    title: "Zomato-Clone",
+    img: SpaceXClone,
+    title: "SpaceX Clone",
     desc: "",
-    link: "https://phenomenal-nasturtium-5d11b3.netlify.app/",
+    link: "https://spacex-clone-flame.vercel.app/",
     stacks: {
-      stack1: "Reactjs",
-      stack2: "Scss",
+      stack1: "HTML & CSS",
+      stack2: "JS",
     },
     cat: "reactjs",
   },
   {
     id: 7,
-    img: youtube,
-    title: "Youtube-Clone",
+    img: TeslaClone,
+    title: "Tesla Clone",
     desc: "",
-    link: "https://deva-youtube-clone.netlify.app/",
+    link: "https://tesla-clone-three-zeta.vercel.app/",
     stacks: {
-      stack1: "Reactjs",
-      stack2: "Scss",
+      stack1: "HTML & CSS",
+      stack2: "JS",
     },
     cat: "reactjs",
   },
+
   {
     id: 8,
     img: atom,
@@ -133,6 +143,105 @@ export const projects = [
   },
   {
     id: 11,
+    img: devbank,
+    title: "Dev Bank",
+    desc: "",
+    link: "https://dev-bank-three.vercel.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+  {
+    id: 12,
+    img: Django,
+    title: "Django",
+    desc: "",
+    link: "https://django-mauve.vercel.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+  {
+    id: 13,
+    img: PinkFlora,
+    title: "Pink Flora",
+    desc: "",
+    link: "https://pink-flora.vercel.app/",
+    stacks: {
+      stack1: "HTML & CSS",
+      stack2: "JS",
+    },
+    cat: "reactjs",
+  },
+  {
+    id: 14,
+    img: reactRedux,
+    title: "Ecommerce Website",
+    desc: "",
+    link: "https://redux-ecommerce-coral.vercel.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+
+  {
+    id: 15,
+    img: zomato,
+    title: "Zomato-Clone",
+    desc: "",
+    link: "https://phenomenal-nasturtium-5d11b3.netlify.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+  {
+    id: 16,
+    img: youtube,
+    title: "Youtube-Clone",
+    desc: "",
+    link: "https://deva-youtube-clone.netlify.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+
+  {
+    id: 17,
+    img: YoutubeClone,
+    title: "Youtube Clone",
+    desc: "",
+    link: "https://dev-youtube-clone-nine.vercel.app/",
+    stacks: {
+      stack1: "HTML & CSS",
+      stack2: "JS",
+    },
+    cat: "reactjs",
+  },
+  {
+    id: 18,
+    img: rolex,
+    title: "Rolex Clone",
+    desc: "",
+    link: "https://rolex-clone.netlify.app/",
+    stacks: {
+      stack1: "Reactjs",
+      stack2: "Scss",
+    },
+    cat: "reactjs",
+  },
+
+  {
+    id: 19,
     img: siva,
     title: "Hosting Web Page",
     desc: "",
@@ -144,7 +253,7 @@ export const projects = [
     cat: "html",
   },
   {
-    id: 12,
+    id: 20,
     img: ninja,
     title: "Ninja Studio",
     desc: "",
