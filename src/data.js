@@ -8,15 +8,15 @@ import gulliver from "./img/projects/Gulliver's.gif";
 import ninja from "./img/projects/Ninja Studio.gif";
 import siva from "./img/projects/Siva.gif";
 import youtube from "./img/projects/YouTube.gif";
-import zomato from "./img/projects/Zomato Clone.gif";
+import zomato from "./img/projects/ZomatoClone.gif";
 import sivaecommerce from "./img/projects/siva.png";
-import devbank from "./img/projects/Dev Bank.png";
+import devbank from "./img/projects/DevBank.png";
 import Django from "./img/projects/Django.png";
 import PinkFlora from "./img/projects/PinkFlora.png";
 import reactRedux from "./img/projects/reactRedux.png";
-import SpaceXClone from "./img/projects/SpaceX Clone.png";
-import TeslaClone from "./img/projects/Tesla Clone.png";
-import YoutubeClone from "./img/projects/Youtube Clone.png";
+import SpaceXClone from "./img/projects/SpaceXClone.png";
+import TeslaClone from "./img/projects/TeslaClone.png";
+import YoutubeClone from "./img/projects/YoutubeClone.png";
 import rolex from "./img/projects/rolex.png";
 
 export const projects = [
